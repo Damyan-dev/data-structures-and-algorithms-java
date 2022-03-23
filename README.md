@@ -1,2 +1,4 @@
 # dsa-cw1
- Data Structures & Algorithms Coursework 
+ 
+ A simple password encryption and decryption tool that can also sort and filter results in a .csv file.
+ Made in Java.
